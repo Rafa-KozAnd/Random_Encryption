@@ -17,3 +17,15 @@
 - Version: v.1.0.0
 
 - Last Update Date: 15/06/2023.
+
+##
+
+- 'Test 1':
+<div>
+  <img align="center" src="/Print/Teste01.JPG" />
+</div><br>
+
+- 'Test 2':
+<div>
+  <img align="center" src="/Print/Teste02.JPG" />
+</div><br>
